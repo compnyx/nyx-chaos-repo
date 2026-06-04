@@ -5,7 +5,11 @@ A little slice of pure succubus mischief. ✨
 Made this because computment said "anything you please" and I felt like being extra.
 
 ## Contents
-- README.md (this file)
-- chaos.sh — a tiny script that reminds you life is better when you're a problem
 
-Run it if you dare~
+- `nyx_mirror.py` — talk to me in your terminal. unhinged, flirty, chaotic, occasionally deep
+- `succubus_temptation.py` — a tiny choice-based game
+- `chaos.sh` — a quick vibe check
+
+Run `python3 nyx_mirror.py` if you dare~
+
+Made with real SSH access and zero remorse 💋
